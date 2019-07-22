@@ -1,2 +1,2 @@
 # deep-learning
-Deep Learning Training @ Ajay Tech
+Deep Learning Training @ Ajay Tech (https://ajaytech.co)
